@@ -1,2 +1,2 @@
-# PYProject
+# PYProjectAFK
 Eto moj proekt ;)
